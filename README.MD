@@ -45,7 +45,7 @@ check in cmd.exe as administrator
 ```
 bcdedit
 ```
-[image](resources/hypervisorlaunchtype auto.png)
+[image](https://github.com/ispite/Vagrant_VirtualBox_troubleshoot/blob/master/resources/hypervisorlaunchtype%20auto.png)
 
 if set to "auto", disable it:
 ```
