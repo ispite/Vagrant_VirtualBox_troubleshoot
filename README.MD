@@ -38,7 +38,7 @@ end
 ```
 In my case, VirtualBox hangs on (freeze) for no reason.
 ### Solution is:
-turn off Hyper-V in windows components
+turn off Hyper-V in windows components(Control Panel\Programs\Programs and Features\)
 and
 check in cmd.exe as administrator
 
