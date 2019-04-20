@@ -1,4 +1,4 @@
-DESCRIPTION
+#DESCRIPTION
 These are just notes for me, with a solution that worked for me.
 my Specs:
 Win 10 x64
@@ -6,14 +6,15 @@ proccessor: amd
 
 
 I had this error:
-Timed out while waiting for the machine to boot. This means that
-Vagrant was unable to communicate with the guest machine within
-the configured ("config.vm.boot_timeout" value) time period.
+>Timed out while waiting for the machine to boot. This means that
+>Vagrant was unable to communicate with the guest machine within
+>the configured ("config.vm.boot_timeout" value) time period.
 
+```
 If you look above, you should be able to see the error(s) that
 Vagrant had when attempting to connect to the machine. These errors
 are usually good hints as to what may be wrong.
-
+```
 If you're using a custom box, make sure that networking is properly
 working and you're able to connect to the machine. It is a common
 problem that networking isn't setup properly in these boxes.
