@@ -45,7 +45,7 @@ check in cmd.exe as administrator
 ```
 bcdedit
 ```
-[image](../resources/hypervisorlaunchtype auto.png)
+![image](../resources/hypervisorlaunchtype auto.png)
 
 if set to "auto", disable it:
 ```
